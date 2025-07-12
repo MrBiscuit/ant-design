@@ -40,7 +40,7 @@ An enterprise-class UI design language and React UI library.
 [help-wanted-url]: https://github.com/ant-design/ant-design/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
 [twitter-image]: https://img.shields.io/twitter/follow/AntDesignUI.svg?label=Ant%20Design&style=social
 [twitter-url]: https://twitter.com/AntDesignUI
-[gitter-english-image]: https://img.shields.io/gitter/room/ant-design/ant-design-english.svg?style=flat-square&logoWidth=20&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgd2lkdGg9IjEyMzUiIGhlaWdodD0iNjUwIiB2aWV3Qm94PSIwIDAgNzQxMCAzOTAwIj4NCjxyZWN0IHdpZHRoPSI3NDEwIiBoZWlnaHQ9IjM5MDAiIGZpbGw9IiNiMjIyMzQiLz4NCjxwYXRoIGQ9Ik0wLDQ1MEg3NDEwbTAsNjAwSDBtMCw2MDBINzQxMG0wLDYwMEgwbTAsNjAwSDc0MTBtMCw2MDBIMCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjMwMCIvPg0KPHJlY3Qgd2lkdGg9IjI5NjQiIGhlaWdodD0iMjEwMCIgZmlsbD0iIzNjM2I2ZSIvPg0KPGcgZmlsbD0iI2ZmZiI%2BDQo8ZyBpZD0iczE4Ij4NCjxnIGlkPSJzOSI%2BDQo8ZyBpZD0iczUiPg0KPGcgaWQ9InM0Ij4NCjxwYXRoIGlkPSJzIiBkPSJNMjQ3LDkwIDMxNy41MzQyMzAsMzA3LjA4MjAzOSAxMzIuODczMjE4LDE3Mi45MTc5NjFIMzYxLjEyNjc4MkwxNzYuNDY1NzcwLDMwNy4wODIwMzl6Ii8%2BDQo8dXNlIHhsaW5rOmhyZWY9IiNzIiB5PSI0MjAiLz4NCjx1c2UgeGxpbms6aHJlZj0iI3MiIHk9Ijg0MCIvPg0KPHVzZSB4bGluazpocmVmPSIjcyIgeT0iMTI2MCIvPg0KPC9nPg0KPHVzZSB4bGluazpocmVmPSIjcyIgeT0iMTY4MCIvPg0KPC9nPg0KPHVzZSB4bGluazpocmVmPSIjczQiIHg9IjI0NyIgeT0iMjEwIi8%2BDQo8L2c%2BDQo8dXNlIHhsaW5rOmhyZWY9IiNzOSIgeD0iNDk0Ii8%2BDQo8L2c%2BDQo8dXNlIHhsaW5rOmhyZWY9IiNzMTgiIHg9Ijk4OCIvPg0KPHVzZSB4bGluazpocmVmPSIjczkiIHg9IjE5NzYiLz4NCjx1c2UgeGxpbms6aHJlZj0iI3M1IiB4PSIyNDcwIi8%2BDQo8L2c%2BDQo8L3N2Zz4%3D
+[gitter-english-image]: https://img.shields.io/gitter/room/ant-design/ant-design-english.svg?style=flat-square&logoWidth=20&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgd2lkdGg9IjEyMzUiIGhlaWdodD0iNjUwIiB2aWV3Qm94PSIwIDAgNzQxMCAzOTAwIj4NCjxyZWN0IHdpZHRoPSI3NDEwIiBoZWlnaHQ9IjM5MDAiIGZpbGw9IiNiMjIyMzQiLz4NCjxwYXRoIGQ9Ik0wLDQ1MEg3NDEwbTAsNjAwSDBtMCw2MDBINzQxMG0wLDYwMEgwbTAsNjAwSDc0MTBtMCw2MDBIMCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjMwMCIvPg0KPHJlY3Qgd2lkdGg9IjI5NjQiIGhlaWdodD0iMjEwMCIgZmlsbD0iIzNjM2I2ZSIvPg0KPGcgZmlsbD0iI2ZmZiI%2BDQo8ZyBpZD0iczE4Ij4NCjxnIGlkPSJzOSI%2BDQo8ZyBpZD0iczUiPg0KPGcgaWQ9InM0Ij4NCjxwYXRoIGlkPSJzIiBkPSJNMjQ3LDkwIDMxNy41MzQyMzAsMzA3LjA4MjAzOSAxMzIuODczMjE4LDE3Mi45MTc5NjFIMzYxLjEyNjc4MkwxNzYuNDY1NzcwLDMwNy4wODIwMzl6Ii8%2BDQo8dXNlIHhsaW5rOmhyZWY9IiNzIiB5PSI0MjAiLz4NCjx1c2UgeGxpbms6aHJlZj0iI3MiIHk9Ijg0MCIvPg0KPHVzZSB4bGluazpocmVmPSIjcyIgeT0iMTI2MCIvPg0KPC9nPg0KPHVzZSB4bGluazpocmVmPSIjczQiIHg9IjI0NyIgeT0iMjEwIi8%2BDQo8L2c%2BDQo8dXNlIHhsaW5rOmhyZWY9IiNzOSIgeD0iNDk0Ii8%2BDQo8L2c%2BDQo8dXNlIHhsaW5rOmhyZWY9IiNzMTgiIHg9Ijk4OCIvPg0KPHVzZSB4bGluazpocmVmPSIjczkiIHg9IjE5NzYiLz4NCjx1c2UgeGxpbms6aHJlZj0iI3M1IiB4PSIyNDcwIi8%2BDQo8L2c%2BDQo8L3N2Zz4%3D
 [gitter-english-url]: https://gitter.im/ant-design/ant-design-english?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
 [gitter-chinese-image]: https://img.shields.io/gitter/room/ant-design/ant-design.svg?style=flat-square&logoWidth=20&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgd2lkdGg9IjkwMCIgaGVpZ2h0PSI2MDAiIHZpZXdCb3g9IjAgMCAzMCAyMCI%2BDQo8ZGVmcz4NCjxwYXRoIGlkPSJzIiBkPSJNMCwtMSAwLjU4Nzc4NSwwLjgwOTAxNyAtMC45NTEwNTcsLTAuMzA5MDE3SDAuOTUxMDU3TC0wLjU4Nzc4NSwwLjgwOTAxN3oiIGZpbGw9IiNmZmRlMDAiLz4NCjwvZGVmcz4NCjxyZWN0IHdpZHRoPSIzMCIgaGVpZ2h0PSIyMCIgZmlsbD0iI2RlMjkxMCIvPg0KPHVzZSB4bGluazpocmVmPSIjcyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNSw1KSBzY2FsZSgzKSIvPg0KPHVzZSB4bGluazpocmVmPSIjcyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTAsMikgcm90YXRlKDIzLjAzNjI0MykiLz4NCjx1c2UgeGxpbms6aHJlZj0iI3MiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEyLDQpIHJvdGF0ZSg0NS44Njk4OTgpIi8%2BDQo8dXNlIHhsaW5rOmhyZWY9IiNzIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMiw3KSByb3RhdGUoNjkuOTQ1Mzk2KSIvPg0KPHVzZSB4bGluazpocmVmPSIjcyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTAsOSkgcm90YXRlKDIwLjY1OTgwOCkiLz4NCjwvc3ZnPg%3D%3D
 [gitter-chinese-url]: https://gitter.im/ant-design/ant-design?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
@@ -165,3 +165,195 @@ If you are a collaborator, please follow our [Pull Request principle](https://gi
 [![](https://opencollective.com/ant-design/tiers/sponsors.svg?avatarHeight=36)](https://opencollective.com/ant-design#support)
 
 [![](https://opencollective.com/ant-design/tiers/backers.svg?avatarHeight=36)](https://opencollective.com/ant-design#support)
+
+# Ant Design Token Extractor
+
+A comprehensive tool to extract all Ant Design tokens programmatically using the official `getDesignToken` API.
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Node.js 14+ 
+- npm
+
+### Installation & Usage
+
+1. **Clone or download this project**
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Run the extraction:**
+   ```bash
+   # Basic extraction
+   npm run extract
+   # or
+   node extract-antd-tokens.js
+   
+   # Enhanced extraction (recommended)
+   node extract-antd-tokens-enhanced.js
+   ```
+
+## 📁 Generated Files
+
+### Basic Extraction
+- `antd-tokens-programmatic.json` - Complete token data (82KB)
+- `antd-tokens-summary.json` - Quick overview and samples
+
+### Enhanced Extraction (Recommended)
+- `antd-tokens-enhanced.json` - Comprehensive token data with categorization (184KB)
+- `antd-tokens-enhanced-summary.json` - Detailed statistics and samples
+- `antd-tokens-figma-ready.json` - Figma-compatible token structure
+
+## 📊 What's Extracted
+
+### Token Categories
+- **Colors** (239 tokens): All color palettes, semantic colors, state colors
+- **Typography** (24 tokens): Font families, sizes, line heights, weights
+- **Spacing** (36 tokens): Margins, padding, sizes, control heights
+- **Motion** (14 tokens): Easing curves, durations, animation settings
+- **Borders** (9 tokens): Radius, widths, line styles
+- **Shadows** (13 tokens): Box shadows, elevations
+- **Breakpoints** (17 tokens): Responsive design breakpoints
+- **Z-Index** (2 tokens): Layer ordering
+- **Opacity** (2 tokens): Transparency values
+
+### Theme Variations
+- **Light Theme** (501 tokens)
+- **Dark Theme** (501 tokens) - 359 different from light
+- **Compact Theme** (501 tokens) - 48 different from default
+- **Compact Dark Theme** (501 tokens)
+
+## 🎨 Using with Figma
+
+The `antd-tokens-figma-ready.json` file is structured for easy import into Figma:
+
+```json
+{
+  "version": "1.0.0",
+  "collections": {
+    "antd-primitives": {
+      "name": "Ant Design Primitives",
+      "modes": { "light": "Light", "dark": "Dark" },
+      "tokens": {
+        "colorPrimary": {
+          "type": "color",
+          "value": {
+            "light": "#1677ff",
+            "dark": "#1668dc"
+          }
+        }
+      }
+    }
+  }
+}
+```
+
+## 📋 Token Structure
+
+### Global Tokens
+```javascript
+{
+  "colorPrimary": "#1677ff",
+  "colorSuccess": "#52c41a",
+  "colorWarning": "#faad14",
+  "colorError": "#ff4d4f",
+  "fontSize": 14,
+  "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI'...",
+  "borderRadius": 6,
+  "motionEaseOut": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+  // ... 497 more tokens
+}
+```
+
+### Categorized Tokens
+```javascript
+{
+  "colors": { /* 239 color tokens */ },
+  "typography": { /* 24 typography tokens */ },
+  "spacing": { /* 36 spacing tokens */ },
+  "motion": { /* 14 motion tokens */ },
+  // ... other categories
+}
+```
+
+### Theme Comparison
+```javascript
+{
+  "themes": {
+    "light": { /* light theme tokens */ },
+    "dark": { /* dark theme tokens */ },
+    "compact": { /* compact theme tokens */ },
+    "compactDark": { /* compact dark theme tokens */ }
+  }
+}
+```
+
+## 🔧 Customization
+
+You can modify the extraction scripts to:
+
+1. **Add custom seed tokens:**
+   ```javascript
+   const customTokens = theme.getDesignToken({
+     token: {
+       colorPrimary: '#your-brand-color',
+       borderRadius: 8,
+       // ... other overrides
+     }
+   });
+   ```
+
+2. **Extract specific component tokens:**
+   ```javascript
+   const buttonTokens = theme.getDesignToken({
+     components: {
+       Button: {
+         colorPrimary: '#custom-color'
+       }
+     }
+   });
+   ```
+
+## 📈 Statistics
+
+From the latest extraction (Ant Design v5.26.4):
+- **Total Tokens:** 501
+- **Color Tokens:** 239 (48%)
+- **Typography Tokens:** 24 (5%)
+- **Spacing Tokens:** 36 (7%)
+- **Motion Tokens:** 14 (3%)
+- **Other Tokens:** 188 (37%)
+
+## 🎯 Use Cases
+
+1. **Design Systems:** Create consistent design tokens across tools
+2. **Figma Integration:** Import tokens directly into Figma variables
+3. **Theme Customization:** Understand all available tokens for theming
+4. **Documentation:** Generate comprehensive token documentation
+5. **Migration:** Migrate from older Ant Design versions
+6. **Custom Components:** Build components that align with Ant Design
+
+## 🔄 Keeping Updated
+
+To get the latest tokens:
+1. Update Ant Design: `npm update antd`
+2. Re-run extraction: `node extract-antd-tokens-enhanced.js`
+3. Compare changes using the metadata timestamps
+
+## 🤝 Contributing
+
+Feel free to improve the extraction scripts:
+- Add more component-specific token extraction
+- Improve categorization logic
+- Add more output formats (CSS variables, SCSS, etc.)
+- Enhance Figma token structure
+
+## 📜 License
+
+MIT License - feel free to use in your projects!
+
+---
+
+**Generated with Ant Design v5.26.4** | Last updated: 2025-07-12
