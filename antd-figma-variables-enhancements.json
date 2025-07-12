@@ -1,0 +1,1678 @@
+{
+  "additionalVariables": {
+    "colorPalettes": [
+      {
+        "id": "VariableID:2:colorPrimary8",
+        "name": "primary/8",
+        "description": "Primary color palette - level 8",
+        "key": "color-primary-8",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 0.047, "g": 0.282, "b": 0.671, "a": 1 },
+          "2:1": { "r": 0.396, "g": 0.659, "b": 1, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorPrimary9",
+        "name": "primary/9",
+        "description": "Primary color palette - level 9",
+        "key": "color-primary-9",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 0.031, "g": 0.188, "b": 0.506, "a": 1 },
+          "2:1": { "r": 0.545, "g": 0.753, "b": 1, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorPrimary10",
+        "name": "primary/10",
+        "description": "Primary color palette - darkest",
+        "key": "color-primary-10",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 0.016, "g": 0.094, "b": 0.341, "a": 1 },
+          "2:1": { "r": 0.698, "g": 0.847, "b": 1, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorSuccess4",
+        "name": "success/4",
+        "description": "Success color palette - level 4",
+        "key": "color-success-4",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 0.718, "g": 0.933, "b": 0.624, "a": 1 },
+          "2:1": { "r": 0.204, "g": 0.298, "b": 0.133, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorSuccess5",
+        "name": "success/5",
+        "description": "Success color palette - level 5",
+        "key": "color-success-5",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 0.576, "g": 0.890, "b": 0.435, "a": 1 },
+          "2:1": { "r": 0.251, "g": 0.369, "b": 0.161, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorSuccess7",
+        "name": "success/7",
+        "description": "Success color palette - level 7",
+        "key": "color-success-7",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 0.294, "g": 0.682, "b": 0.125, "a": 1 },
+          "2:1": { "r": 0.369, "g": 0.847, "b": 0.125, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorSuccess8",
+        "name": "success/8",
+        "description": "Success color palette - level 8",
+        "key": "color-success-8",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 0.220, "g": 0.506, "b": 0.094, "a": 1 },
+          "2:1": { "r": 0.463, "g": 0.933, "b": 0.188, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorSuccess9",
+        "name": "success/9",
+        "description": "Success color palette - level 9",
+        "key": "color-success-9",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 0.145, "g": 0.329, "b": 0.063, "a": 1 },
+          "2:1": { "r": 0.588, "g": 1, "b": 0.314, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorSuccess10",
+        "name": "success/10",
+        "description": "Success color palette - darkest",
+        "key": "color-success-10",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 0.071, "g": 0.153, "b": 0.031, "a": 1 },
+          "2:1": { "r": 0.714, "g": 1, "b": 0.439, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorWarning3",
+        "name": "warning/3",
+        "description": "Warning color palette - level 3",
+        "key": "color-warning-3",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 1, "g": 0.969, "b": 0.800, "a": 1 },
+          "2:1": { "r": 0.224, "g": 0.173, "b": 0.047, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorWarning4",
+        "name": "warning/4",
+        "description": "Warning color palette - level 4",
+        "key": "color-warning-4",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 1, "g": 0.953, "b": 0.667, "a": 1 },
+          "2:1": { "r": 0.290, "g": 0.224, "b": 0.055, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorWarning5",
+        "name": "warning/5",
+        "description": "Warning color palette - level 5",
+        "key": "color-warning-5",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 1, "g": 0.937, "b": 0.533, "a": 1 },
+          "2:1": { "r": 0.357, "g": 0.275, "b": 0.063, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorWarning7",
+        "name": "warning/7",
+        "description": "Warning color palette - level 7",
+        "key": "color-warning-7",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 0.984, "g": 0.631, "b": 0.094, "a": 1 },
+          "2:1": { "r": 1, "g": 0.753, "b": 0.188, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorWarning8",
+        "name": "warning/8",
+        "description": "Warning color palette - level 8",
+        "key": "color-warning-8",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 0.827, "g": 0.506, "b": 0.063, "a": 1 },
+          "2:1": { "r": 1, "g": 0.827, "b": 0.314, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorWarning9",
+        "name": "warning/9",
+        "description": "Warning color palette - level 9",
+        "key": "color-warning-9",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 0.671, "g": 0.380, "b": 0.031, "a": 1 },
+          "2:1": { "r": 1, "g": 0.902, "b": 0.439, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorWarning10",
+        "name": "warning/10",
+        "description": "Warning color palette - darkest",
+        "key": "color-warning-10",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 0.514, "g": 0.255, "b": 0, "a": 1 },
+          "2:1": { "r": 1, "g": 0.976, "b": 0.565, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorError3",
+        "name": "error/3",
+        "description": "Error color palette - level 3",
+        "key": "color-error-3",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 1, "g": 0.859, "b": 0.859, "a": 1 },
+          "2:1": { "r": 0.239, "g": 0.090, "b": 0.094, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorError4",
+        "name": "error/4",
+        "description": "Error color palette - level 4",
+        "key": "color-error-4",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 1, "g": 0.761, "b": 0.765, "a": 1 },
+          "2:1": { "r": 0.310, "g": 0.114, "b": 0.118, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorError5",
+        "name": "error/5",
+        "description": "Error color palette - level 5",
+        "key": "color-error-5",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 1, "g": 0.663, "b": 0.671, "a": 1 },
+          "2:1": { "r": 0.380, "g": 0.137, "b": 0.141, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorError7",
+        "name": "error/7",
+        "description": "Error color palette - level 7",
+        "key": "color-error-7",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 0.961, "g": 0.251, "b": 0.259, "a": 1 },
+          "2:1": { "r": 1, "g": 0.424, "b": 0.431, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorError8",
+        "name": "error/8",
+        "description": "Error color palette - level 8",
+        "key": "color-error-8",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 0.820, "g": 0.200, "b": 0.208, "a": 1 },
+          "2:1": { "r": 1, "g": 0.549, "b": 0.553, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorError9",
+        "name": "error/9",
+        "description": "Error color palette - level 9",
+        "key": "color-error-9",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 0.678, "g": 0.149, "b": 0.157, "a": 1 },
+          "2:1": { "r": 1, "g": 0.675, "b": 0.678, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      },
+      {
+        "id": "VariableID:2:colorError10",
+        "name": "error/10",
+        "description": "Error color palette - darkest",
+        "key": "color-error-10",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "2:0": { "r": 0.537, "g": 0.098, "b": 0.106, "a": 1 },
+          "2:1": { "r": 1, "g": 0.800, "b": 0.804, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:2:colorPalettes"
+      }
+    ],
+    "primitiveMotion": [
+      {
+        "id": "VariableID:1:motionUnit",
+        "name": "motion/unit",
+        "description": "Animation duration unit",
+        "key": "seed-motion-unit",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "1:0": 0.1
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:1:primitives"
+      },
+      {
+        "id": "VariableID:1:motionBase",
+        "name": "motion/base",
+        "description": "Animation base duration",
+        "key": "seed-motion-base",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "1:0": 0
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:1:primitives"
+      },
+      {
+        "id": "VariableID:1:motionEaseOutCirc",
+        "name": "motion/ease-out-circ",
+        "description": "Ease out circular curve",
+        "key": "seed-motion-ease-out-circ",
+        "resolvedType": "STRING",
+        "valuesByMode": {
+          "1:0": "cubic-bezier(0.08, 0.82, 0.17, 1)"
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:1:primitives"
+      },
+      {
+        "id": "VariableID:1:motionEaseInOutCirc",
+        "name": "motion/ease-in-out-circ",
+        "description": "Ease in out circular curve",
+        "key": "seed-motion-ease-in-out-circ",
+        "resolvedType": "STRING",
+        "valuesByMode": {
+          "1:0": "cubic-bezier(0.78, 0.14, 0.15, 0.86)"
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:1:primitives"
+      },
+      {
+        "id": "VariableID:1:motionEaseOut",
+        "name": "motion/ease-out",
+        "description": "Ease out curve",
+        "key": "seed-motion-ease-out",
+        "resolvedType": "STRING",
+        "valuesByMode": {
+          "1:0": "cubic-bezier(0.215, 0.61, 0.355, 1)"
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:1:primitives"
+      },
+      {
+        "id": "VariableID:1:motionEaseInOut",
+        "name": "motion/ease-in-out",
+        "description": "Ease in out curve",
+        "key": "seed-motion-ease-in-out",
+        "resolvedType": "STRING",
+        "valuesByMode": {
+          "1:0": "cubic-bezier(0.645, 0.045, 0.355, 1)"
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:1:primitives"
+      },
+      {
+        "id": "VariableID:1:motionEaseOutBack",
+        "name": "motion/ease-out-back",
+        "description": "Ease out back curve",
+        "key": "seed-motion-ease-out-back",
+        "resolvedType": "STRING",
+        "valuesByMode": {
+          "1:0": "cubic-bezier(0.12, 0.4, 0.29, 1.46)"
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:1:primitives"
+      },
+      {
+        "id": "VariableID:1:motionEaseInBack",
+        "name": "motion/ease-in-back",
+        "description": "Ease in back curve",
+        "key": "seed-motion-ease-in-back",
+        "resolvedType": "STRING",
+        "valuesByMode": {
+          "1:0": "cubic-bezier(0.71, -0.46, 0.88, 0.6)"
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:1:primitives"
+      },
+      {
+        "id": "VariableID:1:motionEaseInQuint",
+        "name": "motion/ease-in-quint",
+        "description": "Ease in quint curve",
+        "key": "seed-motion-ease-in-quint",
+        "resolvedType": "STRING",
+        "valuesByMode": {
+          "1:0": "cubic-bezier(0.755, 0.05, 0.855, 0.06)"
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:1:primitives"
+      },
+      {
+        "id": "VariableID:1:motionEaseOutQuint",
+        "name": "motion/ease-out-quint",
+        "description": "Ease out quint curve",
+        "key": "seed-motion-ease-out-quint",
+        "resolvedType": "STRING",
+        "valuesByMode": {
+          "1:0": "cubic-bezier(0.23, 1, 0.32, 1)"
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:1:primitives"
+      },
+      {
+        "id": "VariableID:1:opacityImage",
+        "name": "opacity/image",
+        "description": "Image opacity",
+        "key": "seed-opacity-image",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "1:0": 1
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:1:primitives"
+      },
+      {
+        "id": "VariableID:1:zIndexBase",
+        "name": "z-index/base",
+        "description": "Base z-index",
+        "key": "seed-z-index-base",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "1:0": 0
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:1:primitives"
+      },
+      {
+        "id": "VariableID:1:zIndexPopupBase",
+        "name": "z-index/popup-base",
+        "description": "Popup base z-index",
+        "key": "seed-z-index-popup-base",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "1:0": 1000
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:1:primitives"
+      },
+      {
+        "id": "VariableID:1:sizePopupArrow",
+        "name": "size/popup-arrow",
+        "description": "Popup arrow size",
+        "key": "seed-size-popup-arrow",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "1:0": 16
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:1:primitives"
+      }
+    ],
+    "semanticAdditional": [
+      {
+        "id": "VariableID:3:colorTextHeading",
+        "name": "text/heading",
+        "description": "Heading text color",
+        "key": "color-text-heading",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": { "r": 0, "g": 0, "b": 0, "a": 0.88 },
+          "3:1": { "r": 1, "g": 1, "b": 1, "a": 0.85 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:colorTextLabel",
+        "name": "text/label",
+        "description": "Label text color",
+        "key": "color-text-label",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": { "r": 0, "g": 0, "b": 0, "a": 0.65 },
+          "3:1": { "r": 1, "g": 1, "b": 1, "a": 0.65 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:colorTextDescription",
+        "name": "text/description",
+        "description": "Description text color",
+        "key": "color-text-description",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": { "r": 0, "g": 0, "b": 0, "a": 0.45 },
+          "3:1": { "r": 1, "g": 1, "b": 1, "a": 0.45 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:colorTextDisabled",
+        "name": "text/disabled",
+        "description": "Disabled text color",
+        "key": "color-text-disabled",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": { "r": 0, "g": 0, "b": 0, "a": 0.25 },
+          "3:1": { "r": 1, "g": 1, "b": 1, "a": 0.25 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:colorTextPlaceholder",
+        "name": "text/placeholder",
+        "description": "Placeholder text color",
+        "key": "color-text-placeholder",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": { "r": 0, "g": 0, "b": 0, "a": 0.25 },
+          "3:1": { "r": 1, "g": 1, "b": 1, "a": 0.25 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:colorTextLightSolid",
+        "name": "text/light-solid",
+        "description": "Light solid text color",
+        "key": "color-text-light-solid",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": { "r": 1, "g": 1, "b": 1, "a": 1 },
+          "3:1": { "r": 0, "g": 0, "b": 0, "a": 0.85 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:colorIcon",
+        "name": "icon/default",
+        "description": "Default icon color",
+        "key": "color-icon",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": { "r": 0, "g": 0, "b": 0, "a": 0.45 },
+          "3:1": { "r": 1, "g": 1, "b": 1, "a": 0.45 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:colorIconHover",
+        "name": "icon/hover",
+        "description": "Icon hover color",
+        "key": "color-icon-hover",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": { "r": 0, "g": 0, "b": 0, "a": 0.88 },
+          "3:1": { "r": 1, "g": 1, "b": 1, "a": 0.85 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:colorBgTextHover",
+        "name": "bg/text-hover",
+        "description": "Text hover background color",
+        "key": "color-bg-text-hover",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": { "r": 0, "g": 0, "b": 0, "a": 0.04 },
+          "3:1": { "r": 1, "g": 1, "b": 1, "a": 0.08 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:colorBgTextActive",
+        "name": "bg/text-active",
+        "description": "Text active background color",
+        "key": "color-bg-text-active",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": { "r": 0, "g": 0, "b": 0, "a": 0.15 },
+          "3:1": { "r": 1, "g": 1, "b": 1, "a": 0.15 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:colorBgSpotlight",
+        "name": "bg/spotlight",
+        "description": "Spotlight background color",
+        "key": "color-bg-spotlight",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": { "r": 0, "g": 0, "b": 0, "a": 0.85 },
+          "3:1": { "r": 1, "g": 1, "b": 1, "a": 0.85 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:colorBgMask",
+        "name": "bg/mask",
+        "description": "Mask background color",
+        "key": "color-bg-mask",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": { "r": 0, "g": 0, "b": 0, "a": 0.45 },
+          "3:1": { "r": 0, "g": 0, "b": 0, "a": 0.45 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:colorBgBlur",
+        "name": "bg/blur",
+        "description": "Blur background color",
+        "key": "color-bg-blur",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": { "r": 0, "g": 0, "b": 0, "a": 0 },
+          "3:1": { "r": 0, "g": 0, "b": 0, "a": 0 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:colorHighlight",
+        "name": "highlight",
+        "description": "Highlight color",
+        "key": "color-highlight",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": { "r": 1, "g": 0.251, "b": 0.251, "a": 1 },
+          "3:1": { "r": 1, "g": 0.251, "b": 0.251, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:colorLink",
+        "name": "link/default",
+        "description": "Link color",
+        "key": "color-link",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:3:colorPrimary"
+          },
+          "3:1": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:3:colorPrimary"
+          }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:colorLinkHover",
+        "name": "link/hover",
+        "description": "Link hover color",
+        "key": "color-link-hover",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:3:colorPrimaryHover"
+          },
+          "3:1": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:3:colorPrimaryHover"
+          }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:colorLinkActive",
+        "name": "link/active",
+        "description": "Link active color",
+        "key": "color-link-active",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:3:colorPrimaryActive"
+          },
+          "3:1": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:3:colorPrimaryActive"
+          }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      }
+    ],
+    "sizeAndSpacingAdditional": [
+      {
+        "id": "VariableID:4:lineHeight",
+        "name": "line-height/default",
+        "description": "Default line height",
+        "key": "line-height",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "4:0": 1.5714285714285714,
+          "4:1": 1.6666666666666667
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:4:sizeAndSpacing"
+      },
+      {
+        "id": "VariableID:4:lineHeightSM",
+        "name": "line-height/sm",
+        "description": "Small line height",
+        "key": "line-height-sm",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "4:0": 1.6666666666666667,
+          "4:1": 1.8
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:4:sizeAndSpacing"
+      },
+      {
+        "id": "VariableID:4:lineHeightLG",
+        "name": "line-height/lg",
+        "description": "Large line height",
+        "key": "line-height-lg",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "4:0": 1.5,
+          "4:1": 1.5714285714285714
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:4:sizeAndSpacing"
+      },
+      {
+        "id": "VariableID:4:lineHeightHeading1",
+        "name": "line-height/heading-1",
+        "description": "H1 line height",
+        "key": "line-height-heading-1",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "4:0": 1.2105263157894737,
+          "4:1": 1.2352941176470589
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:4:sizeAndSpacing"
+      },
+      {
+        "id": "VariableID:4:lineHeightHeading2",
+        "name": "line-height/heading-2",
+        "description": "H2 line height",
+        "key": "line-height-heading-2",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "4:0": 1.2666666666666666,
+          "4:1": 1.2962962962962963
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:4:sizeAndSpacing"
+      },
+      {
+        "id": "VariableID:4:lineHeightHeading3",
+        "name": "line-height/heading-3",
+        "description": "H3 line height",
+        "key": "line-height-heading-3",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "4:0": 1.3333333333333333,
+          "4:1": 1.3636363636363635
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:4:sizeAndSpacing"
+      },
+      {
+        "id": "VariableID:4:lineHeightHeading4",
+        "name": "line-height/heading-4",
+        "description": "H4 line height",
+        "key": "line-height-heading-4",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "4:0": 1.4,
+          "4:1": 1.4444444444444444
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:4:sizeAndSpacing"
+      },
+      {
+        "id": "VariableID:4:lineHeightHeading5",
+        "name": "line-height/heading-5",
+        "description": "H5 line height",
+        "key": "line-height-heading-5",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "4:0": 1.5,
+          "4:1": 1.5714285714285714
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:4:sizeAndSpacing"
+      },
+      {
+        "id": "VariableID:4:borderRadiusXS",
+        "name": "border-radius/xs",
+        "description": "Extra small border radius",
+        "key": "border-radius-xs",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "4:0": 2,
+          "4:1": 2
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:4:sizeAndSpacing"
+      },
+      {
+        "id": "VariableID:4:borderRadiusSM",
+        "name": "border-radius/sm",
+        "description": "Small border radius",
+        "key": "border-radius-sm",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "4:0": 4,
+          "4:1": 4
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:4:sizeAndSpacing"
+      },
+      {
+        "id": "VariableID:4:borderRadiusLG",
+        "name": "border-radius/lg",
+        "description": "Large border radius",
+        "key": "border-radius-lg",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "4:0": 8,
+          "4:1": 8
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:4:sizeAndSpacing"
+      },
+      {
+        "id": "VariableID:4:borderRadiusOuter",
+        "name": "border-radius/outer",
+        "description": "Outer border radius",
+        "key": "border-radius-outer",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "4:0": 4,
+          "4:1": 4
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:4:sizeAndSpacing"
+      },
+      {
+        "id": "VariableID:4:lineWidthBold",
+        "name": "line-width/bold",
+        "description": "Bold line width",
+        "key": "line-width-bold",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "4:0": 2,
+          "4:1": 2
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:4:sizeAndSpacing"
+      },
+      {
+        "id": "VariableID:4:lineWidthFocus",
+        "name": "line-width/focus",
+        "description": "Focus line width",
+        "key": "line-width-focus",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "4:0": 4,
+          "4:1": 4
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:4:sizeAndSpacing"
+      },
+      {
+        "id": "VariableID:4:controlOutlineWidth",
+        "name": "control/outline-width",
+        "description": "Control outline width",
+        "key": "control-outline-width",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "4:0": 2,
+          "4:1": 2
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:4:sizeAndSpacing"
+      },
+      {
+        "id": "VariableID:4:fontWeightStrong",
+        "name": "font-weight/strong",
+        "description": "Strong font weight",
+        "key": "font-weight-strong",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "4:0": 600,
+          "4:1": 600
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:4:sizeAndSpacing"
+      }
+    ],
+    "shadowAndEffects": [
+      {
+        "id": "VariableID:3:boxShadow",
+        "name": "shadow/box",
+        "description": "Default box shadow",
+        "key": "box-shadow",
+        "resolvedType": "STRING",
+        "valuesByMode": {
+          "3:0": "0 1px 2px 0 rgba(0, 0, 0, 0.03), 0 1px 6px -1px rgba(0, 0, 0, 0.02), 0 2px 4px 0 rgba(0, 0, 0, 0.02)",
+          "3:1": "0 1px 2px 0 rgba(0, 0, 0, 0.03), 0 1px 6px -1px rgba(0, 0, 0, 0.02), 0 2px 4px 0 rgba(0, 0, 0, 0.02)"
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:boxShadowSecondary",
+        "name": "shadow/box-secondary",
+        "description": "Secondary box shadow",
+        "key": "box-shadow-secondary",
+        "resolvedType": "STRING",
+        "valuesByMode": {
+          "3:0": "0 6px 16px 0 rgba(0, 0, 0, 0.08), 0 3px 6px -4px rgba(0, 0, 0, 0.12), 0 9px 28px 8px rgba(0, 0, 0, 0.05)",
+          "3:1": "0 6px 16px 0 rgba(0, 0, 0, 0.08), 0 3px 6px -4px rgba(0, 0, 0, 0.12), 0 9px 28px 8px rgba(0, 0, 0, 0.05)"
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:boxShadowTertiary",
+        "name": "shadow/box-tertiary",
+        "description": "Tertiary box shadow",
+        "key": "box-shadow-tertiary",
+        "resolvedType": "STRING",
+        "valuesByMode": {
+          "3:0": "0 1px 2px 0 rgba(0, 0, 0, 0.03), 0 1px 6px -1px rgba(0, 0, 0, 0.02), 0 2px 4px 0 rgba(0, 0, 0, 0.02)",
+          "3:1": "0 1px 2px 0 rgba(0, 0, 0, 0.03), 0 1px 6px -1px rgba(0, 0, 0, 0.02), 0 2px 4px 0 rgba(0, 0, 0, 0.02)"
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:controlOutline",
+        "name": "control/outline",
+        "description": "Control outline color",
+        "key": "control-outline",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": { "r": 0.086, "g": 0.467, "b": 1, "a": 0.2 },
+          "3:1": { "r": 0.086, "g": 0.467, "b": 1, "a": 0.2 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:colorWarningOutline",
+        "name": "warning/outline",
+        "description": "Warning outline color",
+        "key": "color-warning-outline",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": { "r": 0.98, "g": 0.678, "b": 0.078, "a": 0.2 },
+          "3:1": { "r": 0.98, "g": 0.678, "b": 0.078, "a": 0.2 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:colorErrorOutline",
+        "name": "error/outline",
+        "description": "Error outline color",
+        "key": "color-error-outline",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "3:0": { "r": 1, "g": 0.302, "b": 0.31, "a": 0.2 },
+          "3:1": { "r": 1, "g": 0.302, "b": 0.31, "a": 0.2 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:opacityLoading",
+        "name": "opacity/loading",
+        "description": "Loading opacity",
+        "key": "opacity-loading",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "3:0": 0.65,
+          "3:1": 0.65
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      }
+    ],
+    "motionDurations": [
+      {
+        "id": "VariableID:3:motionDurationFast",
+        "name": "motion/duration-fast",
+        "description": "Fast motion duration",
+        "key": "motion-duration-fast",
+        "resolvedType": "STRING",
+        "valuesByMode": {
+          "3:0": "0.1s",
+          "3:1": "0.1s"
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:motionDurationMid",
+        "name": "motion/duration-mid",
+        "description": "Medium motion duration",
+        "key": "motion-duration-mid",
+        "resolvedType": "STRING",
+        "valuesByMode": {
+          "3:0": "0.2s",
+          "3:1": "0.2s"
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      },
+      {
+        "id": "VariableID:3:motionDurationSlow",
+        "name": "motion/duration-slow",
+        "description": "Slow motion duration",
+        "key": "motion-duration-slow",
+        "resolvedType": "STRING",
+        "valuesByMode": {
+          "3:0": "0.3s",
+          "3:1": "0.3s"
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:3:semantic"
+      }
+    ],
+    "additionalComponentTokens": [
+      {
+        "id": "VariableID:5:formLabelRequiredMarkColor",
+        "name": "form/label-required-mark-color",
+        "description": "Form label required mark color",
+        "key": "form-label-required-mark-color",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "5:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:3:colorError"
+          }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:formLabelColor",
+        "name": "form/label-color",
+        "description": "Form label color",
+        "key": "form-label-color",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "5:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:3:colorText"
+          }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:formItemMarginBottom",
+        "name": "form/item-margin-bottom",
+        "description": "Form item margin bottom",
+        "key": "form-item-margin-bottom",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "5:0": 24
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:drawerBg",
+        "name": "drawer/bg",
+        "description": "Drawer background color",
+        "key": "drawer-bg",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "5:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:3:colorBgElevated"
+          }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:drawerHeaderPadding",
+        "name": "drawer/header-padding",
+        "description": "Drawer header padding",
+        "key": "drawer-header-padding",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "5:0": 16
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:popoverBg",
+        "name": "popover/bg",
+        "description": "Popover background color",
+        "key": "popover-bg",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "5:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:3:colorBgElevated"
+          }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:popoverColor",
+        "name": "popover/color",
+        "description": "Popover text color",
+        "key": "popover-color",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "5:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:3:colorText"
+          }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:listHeaderBg",
+        "name": "list/header-bg",
+        "description": "List header background color",
+        "key": "list-header-bg",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "5:0": { "r": 0, "g": 0, "b": 0, "a": 0 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:listFooterBg",
+        "name": "list/footer-bg",
+        "description": "List footer background color",
+        "key": "list-footer-bg",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "5:0": { "r": 0, "g": 0, "b": 0, "a": 0 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:listItemPadding",
+        "name": "list/item-padding",
+        "description": "List item padding",
+        "key": "list-item-padding",
+        "resolvedType": "STRING",
+        "valuesByMode": {
+          "5:0": "12px 0"
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:notificationBg",
+        "name": "notification/bg",
+        "description": "Notification background color",
+        "key": "notification-bg",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "5:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:3:colorBgElevated"
+          }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:notificationWidth",
+        "name": "notification/width",
+        "description": "Notification width",
+        "key": "notification-width",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "5:0": 384
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:messageBg",
+        "name": "message/bg",
+        "description": "Message background color",
+        "key": "message-bg",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "5:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:3:colorBgElevated"
+          }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:spinDotSize",
+        "name": "spin/dot-size",
+        "description": "Spin dot size",
+        "key": "spin-dot-size",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "5:0": 20
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:spinDotSizeSM",
+        "name": "spin/dot-size-sm",
+        "description": "Small spin dot size",
+        "key": "spin-dot-size-sm",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "5:0": 14
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:spinDotSizeLG",
+        "name": "spin/dot-size-lg",
+        "description": "Large spin dot size",
+        "key": "spin-dot-size-lg",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "5:0": 32
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:segmentedItemSelectedBg",
+        "name": "segmented/item-selected-bg",
+        "description": "Segmented item selected background",
+        "key": "segmented-item-selected-bg",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "5:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:3:colorBgContainer"
+          }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:segmentedItemSelectedColor",
+        "name": "segmented/item-selected-color",
+        "description": "Segmented item selected color",
+        "key": "segmented-item-selected-color",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "5:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:3:colorText"
+          }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:cascaderMenuBg",
+        "name": "cascader/menu-bg",
+        "description": "Cascader menu background color",
+        "key": "cascader-menu-bg",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "5:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:3:colorBgContainer"
+          }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:cascaderMenuBorderColor",
+        "name": "cascader/menu-border-color",
+        "description": "Cascader menu border color",
+        "key": "cascader-menu-border-color",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "5:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:3:colorBorderSecondary"
+          }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:emptyFontSize",
+        "name": "empty/font-size",
+        "description": "Empty font size",
+        "key": "empty-font-size",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "5:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:4:fontSize"
+          }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:resultTitleFontSize",
+        "name": "result/title-font-size",
+        "description": "Result title font size",
+        "key": "result-title-font-size",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "5:0": 24
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:resultSubtitleFontSize",
+        "name": "result/subtitle-font-size",
+        "description": "Result subtitle font size",
+        "key": "result-subtitle-font-size",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "5:0": 14
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:resultIconFontSize",
+        "name": "result/icon-font-size",
+        "description": "Result icon font size",
+        "key": "result-icon-font-size",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "5:0": 72
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:imageBg",
+        "name": "image/bg",
+        "description": "Image background color",
+        "key": "image-bg",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "5:0": { "r": 0, "g": 0, "b": 0, "a": 0.04 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:imagePreviewOperationColor",
+        "name": "image/preview-operation-color",
+        "description": "Image preview operation color",
+        "key": "image-preview-operation-color",
+        "resolvedType": "COLOR",
+        "valuesByMode": {
+          "5:0": { "r": 0.733, "g": 0.733, "b": 0.733, "a": 1 }
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:statisticTitleFontSize",
+        "name": "statistic/title-font-size",
+        "description": "Statistic title font size",
+        "key": "statistic-title-font-size",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "5:0": 14
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:statisticContentFontSize",
+        "name": "statistic/content-font-size",
+        "description": "Statistic content font size",
+        "key": "statistic-content-font-size",
+        "resolvedType": "FLOAT",
+        "valuesByMode": {
+          "5:0": 24
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:typographyTitleMarginTop",
+        "name": "typography/title-margin-top",
+        "description": "Typography title margin top",
+        "key": "typography-title-margin-top",
+        "resolvedType": "STRING",
+        "valuesByMode": {
+          "5:0": "1.2em"
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      },
+      {
+        "id": "VariableID:5:typographyTitleMarginBottom",
+        "name": "typography/title-margin-bottom",
+        "description": "Typography title margin bottom",
+        "key": "typography-title-margin-bottom",
+        "resolvedType": "STRING",
+        "valuesByMode": {
+          "5:0": "0.5em"
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {},
+        "variableCollectionId": "VariableCollectionId:5:components"
+      }
+    ]
+  }
+}
